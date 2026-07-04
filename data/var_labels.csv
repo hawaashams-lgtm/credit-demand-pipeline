@@ -1,0 +1,337 @@
+variable,label
+idstd,WEB STD FIRMID
+id,Firm ID
+a4a,Industry Sampling Sector
+a6a,Sampling Size
+a2,Sampling Region
+a1c,Sample Frame Level
+a0,Questionnaire
+a3a,Region of The Establishment
+a6c,Screener Size
+a7,Establishment part of a multi-establishment Firm?
+panel,Panel Code
+a1a,Language of The Interview
+a14d,Day
+a14m,Month
+a14y,Year
+a14h,Hour
+a14min,Minutes
+a20y,Close Year of The Last Completed Fiscal Year
+a20m,Close Month of The Last Completed Fiscal Year
+a20d,Close Day of The Last Completed Fiscal Year
+a1,Country Code
+a12,Interviewer Number
+a7a,Number of Establishments In The Firm
+a7b,Is This Establishment The Headquarters Location?
+a11,"If Hq, Financial Statements Independent of The Rest of Establishment"
+a7c,Does This Headquarters Location Engage In Production or Sales At This Location?
+a9,Establishment'S Financial Statements Prepared Separately From Hq Statements
+b1,Legal Status of The Firm
+b1x,Other (Specify)
+b3a,Is the largest owner also the top manager
+b2a,"% Owned By Private Domestic Individuals, Companies or organizations"
+b2b,"% Owned By Private Foreign Individuals, Companies or organizations"
+b2c,% Owned By Government/State
+b2d,% Owned By Other
+b4,"Amongst The Owners of The Firm, Are There Any Women?"
+b4a,% of The Firm Owned By Women
+b5,Year Establishment Began Operations
+b6,Number of Full-Time Employees of The Establishment When It Started Operations
+b6b,In What Year Was This Establishment Formally Registered?
+b7,How Many Years of Experience Working In This Sector Does The Top Manager Have?
+b7a,Is The Top Manager a Woman?
+b8,Does Establishment Have An Internationally-Recognized Quality Certification?
+b8x,Specify The Internationally-Recognized Quality Certifications
+c3,Application To Obtain An Electrical Connection Submitted Over The Last 2 Years
+c4,How Many Days Did It Take For You To Receive An Electrical Connection Service?
+c5,Informal Gift/Payment Expected or Requested For An Electrical Connection?
+c31,Cost to obtain electrical connection
+c6,"Over Last FY, Did This Establishment Experience Power Outages?"
+c7,Number of Power Outages Experienced In A Typical Month In Last Fiscal Year
+c8a,Average Duration of Power Outages: Hours
+c8b,Average Duration of Power Outages: Minutes
+c9a,"In Last FY, Losses As % of Annual Sales Due To Power Outages"
+c9b,"In Last FY, Value of Losses Due To Power Outages"
+c10,Generator Shared or Owned Over The Course of Last Fiscal Year?
+c11,% Electricity From Generator Owned/Shared By The Establishment In Last FY
+c43,"Over FY, did establishment use on-site solar panels?"
+c44,Percentage of electricity from solar panels
+c12,Application To Obtain A Water Connection Submitted Over The Last 2 Years
+c13,How Many Days Did It Take For You To Obtain A Water Connection?
+c14,"When You Applied For A Water Connection, Was An Informal Gift/Payment Requested?"
+c33,Cost to obtain water connection
+c45,Which best characterizes quality of piped water received from utility provider
+c152,Did You Experience Insufficient Water Supply In Last FY?
+c162,Frequency of Incidents of Water Shortages In A Typical Month In Last FY
+c172,Average Length of Water Shortages In Last Fiscal Year
+c22b,Establishment Has Its Own Website
+c36,Application To Obtain Fixed Broadband Internet Connection Over The Last 2 Years
+c37,How Many Days Did It Take For You To Obtain Internet Connection?
+c39,Did You Experience Internet Disruptions In Last FY?
+c42,How difficult to switch internet providers?
+d1a1a,Establishment'S Main Product/Service Last FY
+d1a3,Main Product/Service: Percent of Total Annual Sales
+d2,"In Last Fiscal Year, What Were This Establishmentâ€™S Total Annual Sales?"
+d2x,Please Also Write Out The Number
+n3,What were the establishment's sales 3 years ago?
+n3x,Please Also Write Out The Number
+f1,"In Last FY, What Was The Capacity Utilization (%) of This Establishment?"
+d3a,% of Sales: National Sales
+d3b,% of Sales: Indirect Exports
+d3c,% of Sales: Direct Exports
+d31x,Main destination of exports (country code)
+d42,"When goods exported directly, was any inspection, certification, or licensing do"
+d43a,"Average duration to conduct inspections, certifications, and licensing: days"
+d43b,"Average duration to conduct inspections, certifications, and licensing: hours"
+d4a,"In Last FY, Avg. Num. of Days For Exported Goods To Clear Customs?"
+d4b,"If less than a day, total hours for exported goods to clear customs"
+d342,Costs to Comply with all Export Requirements (% of value of goods exported)
+d352,Any online orders that didn't require custom duties in destination
+d8,In What Year Did This Establishment First Export Directly or Indirectly?
+d12a,% of Material Inputs And Supplies of Domestic origin In Last Fiscal Year
+d12b,% of Material Inputs And Supplies of Foreign origin In Last Fiscal Year
+d13,Were Any of These Material Inputs And Supplies Imported Directly?
+d38x,Main origin of imports (country code)
+d44,"Inspection, certification or licensing prior to point of entry"
+d45a,Average duration to clear customs: Days
+d45b,Average duration to clear customs: Hours
+d14a,Avg. Num. of Days For Imported Goods To Clear Customs In Last Fiscal Year
+d14b,"If less than a day, total hours for imported goods to clear customs"
+d412,Costs to Comply with all Import Requirements (% of value of goods imported)
+o1,"In the last three years, establishment had any commercial dispute?"
+o2,"Use of courts, arbitration etc. to (or attempt to ) resolve  commercial dispute?"
+o3a2,Reliable mechanism to  resolve commercial disputes: Arbitration?
+o3b2,Reliable mechanism to resolve commercial disputes:Mediation?
+j31,"In resolving commercial disputes, courts are independent and impartial"
+r1,What Happened When Problem In The Production Process/Services Provision Arose?
+r2,Did This Establishment Monitor Any Production/Service Performance Indicators?
+r3,How Many Production/Service Provision Performance Indicators Were Monitored?
+r4,Did This Establishment Have Production/Service Provision Targets?
+r5,What Best Describes The Time Frame of Production/Service Provision Targets?
+r6,How Easy To Achieve Its Production/Service Provision Targets?
+r7,Who Was Aware of The Production/Service Provision Targets At This Establishment?
+r8,Were There Performance Bonuses Based On Production/Service Provision Targets?
+r9,What Were Managers' Performance Bonuses Usually Based On?
+r10,What Was The Primary Way Non-Managers Were Promoted?
+r11,When Was An Under-Performing Non-Manager Reassigned or Dismissed?
+e1,"In Last FY, Main Market For Establishment'S Main Product"
+e2b,Competitors For The Main Product/Service In The Main Market
+e312,Which Best Descibes Establishment's Main Market
+e32,Change in competition in the last year?
+e33,Establishment can increase prices more than competitors without losing customers
+e6,Do You Use Technology Licensed From A Foreign-Owned Company?
+e11,Does This Establishment Compete Against Unregistered or Informal Firms?
+h1,New Products/Services Introduced Over Last 3 Yrs
+h2,New Products/Services Also New For Thr Establishment'S Main Market
+h32x,Describe In Detail The Main New or Significantly Improved Product or Service
+h5,"During Last 3 Yrs, Establishment Introduced New/Significantly Improved Process"
+h62x,Describe Main New/Significantly Improved Process This Establishment Introduced
+h8,"During Last Fiscal Year, Establishment Spent On R&D (Excl Market Research)?"
+h9,"How Much Spent On R&D, Either In-House or External?"
+d1a6a,Total number of hotel rooms in the last FY
+d1a6b,Total areas of rooms in the last FY
+d1a6c,Specify units
+d1a6cx,Other (Specify)
+g5a,What Is The Total Selling Area In This Establishment?
+g5b,The Area Is Measured In:
+g5bx,Specify Other Units (If Not Included Above) The Area Is Measured In
+g2,Applic. To Obtain A Construction-Related Permit Submitted Over The Last 2 Years
+g3,How Many Days Did It Take For You To Obtain A Construction-Related Permit?
+g4,Informal Gift/Payment Expected or Requested For A Construction-Related Permit
+g34,"Land disputes and the sale of property: Deeds, Title certificates etc recognized"
+ge3,Experience damage of physical assets due to extreme weather events?
+ge3a,Monetary damage of physical assets?
+ge7,"Over the last 3 years, establishment monitor its CO2 emissions?"
+ge8d,"Over last 3 years, establishment adopt energy management measures?"
+k3a,% of Working Capital Financed From Internal Funds/Retained Earnings
+k3i,% of Working Capital Financed From Ownersâ€™ Contributions or Issued New Equity
+k3j,% of Working Capital Financed From Bonds
+k3bc,% of Working Capital Borrowed From Banks
+k3e,% of Working Capital Borrowed From Non-Bank Financial Institutions
+k3f,% of Working Capital Purchased On Credit/Advances From Suppliers /Customers
+k3dgh,"% of Working Capital Financed By Friends, Relatives, Informal Money Lenders, Oth"
+k4,Did This Establishment Purchase Any Fixed Assets In Last FY?
+n5a,Total Annual Expenditure For Purchases of Equipment In Last FY
+n5b,Total Annual Expenditure For Purchases of Land And Buildings In Last FY
+k5a,"Last FY, % Fixed Assets Funded By: Internal Funds/Retained Earnings"
+k5a1,Fixed Assets - Value Internal Funds or Retained Earnings
+k5i,"Last FY, % Fixed Assets Funded By: Ownersâ€™ Contributions or Issued New Equity"
+k5i1,Fixed Assets - Value Ownersâ€™ Contribution or Issued New Equity Shares
+k5j,"Last FY, % Fixed Assets Funded By: Bonds"
+k5j1,Fixed Assets - Value Bonds
+k5bc,"Last FY, % Fixed Assets Funded By: Bank Borrowing"
+k5bc1,Fixed Assets - Value Borrowed From Banks
+k5e,"Last FY, % Fixed Assets Funded By: Non-Bank Financial Institutions"
+k5e1,Fixed Assets - Value Borrowed From Non-Bank Financial Institutions
+k5f,"Last FY, % Fixed Assets Funded By: Credit From Suppliers/Advances From Customers"
+k5f1,"Fixed Assets - Value Purchases On Credit From Suppliers, Advances From Customers"
+k5dgh,"Last FY, % Fixed Assets Funded By: Friends\Relatives\Informal Money Lenders\Othe"
+k5dgh1,Fixed Assets - Value Friends\Relatives\Informal Money Lenders\Other
+k6,Does This Establishment Have A Checking And\or Saving Account?
+k82b,Establishment Has A Line of Creidt from a Financial Institution?
+k82a,Establishment Has A Loan From A Financial Institution?
+k9,Type of Financial Institution That Granted The Line of Credit or Loan
+k10,Year When The Most Recent Loan/Line of Credit Approved
+k11,"For The Most Recent Loan, What Was The Value At The Time of Approval?"
+k13,Financing Required For The Most Recent Line of Credit or Loan
+k14a,"Type of Collateral Required For The Most Recent Loan? Land, Buildings"
+k14b,Type of Collateral Required For The Most Recent Loan? Equipment
+k14c,Type of Collateral Required For The Most Recent Loan? Accounts
+k14d,Type of Collateral Required For The Most Recent Loan? Personal Assets
+k14e,Type of Collateral Required For The Most Recent Loan? Other
+k15a,Value of Collateral Required For The Most Recent Credit/Loan
+k15d,Outstanding Personal Loans Used To Finance Establishment'S Business Activities?
+k162a,"In Last FY, Did Establishment Apply For Loans from Financial Institution?"
+k162b,"In Last FY, Did Establishment Apply For Line of Credit from Financial Institutio"
+k17,Main Reason For Not Applying For New Loans or New Lines of Credit
+k20a1,What Was The Outcome of That Most Recent Application For Loan/Line of Credit?
+k32,Days to receive a decision about most recent loan application
+k21,Financial Statements Checked & Certified By External Auditor In Last FY?
+k33,Percentage of payments received using e-payments
+k342,Main type of e-payment accepted
+k342x,Other (Specify)
+k35,Avg. days to receive main type of e-payment
+k36,Cost per transaction (% of transaction) to receive main type of e-payment
+k38,Percentage of payments made using e-payments
+k392,Main type of e-payment used to make payments
+k392x,Other (Specify)
+k40,Cost per transaction (% of transaction) to make main type of e-payment
+j2,What % of Senior Management Time Was Spent In Dealing With Govt Regulations?
+j3,"Over The Last 12 Months, Was This Establishment Inspected By Tax officials?"
+j4,Frequency of Inspections/Requirement For Meeting By Tax officials
+j5,In Any of These Inspections Was A Gift/Informal Payment Requested ?
+j32,Did any of these visits or meetings consist of a tax audit?
+j33,Weeks until final audit report was received
+j35,"Total Hours to Prepare, File and Pay Taxes"
+j36,"In last FY, did establishment file taxes electronically"
+j37,"In last FY, did establishment pay taxes electronically"
+j38,"In the last 3 yrs., establishment has applied for a VAT refund"
+j39,Weeks to receive VAT refund
+j40,Main reason for not applying for a VAT tax refund
+j6a,Government Contract Secured (or Attempted) In The Last 12 Months?
+j41,Degree of difficulty to comply with govt contract tender requirements
+j42,Establishment has held a govt contract in last 3 yrs?
+j43,Typical number of days to receive payment under govt contract
+j7a,Percent of Total Annual Sales Paid In Informal Payments
+j7b,Total Annual Informal Payment
+j10,Application To Obtain An Import License Submitted Over The Last 2 Years?
+j11,How Many Days Did It Take To Obtain Your Import License?
+j12,"When You Applied For An Import License, Was An Informal Gift/Payment Requested?"
+j13,Application To Obtain An Operating License Submitted Over Last 2 Years?
+j14,How Many Days Did It Take To Obtain Your Operating License?
+j15,When You Applied For Operating License Was An Informal Gift/Payment Requested?
+k30,How Much of An Obstacle: Access To Finance
+g30a,How Much of An Obstacle: Access To Land?
+j30c,How Much of An Obstacle: Business Licensing And Permits
+j30f,How Much of An Obstacle: Corruption
+h30,How Much of An Obstacle: Courts
+i30,"How Much of An Obstacle: Crime, Theft And Disorder?"
+d30b,How Much of An Obstacle: Customs And Trade Regulations?
+c30a,How Much of An Obstacle: Electricity To Operations of This Establishment?
+l30b,How Much of An Obstacle: Inadequately Educated Workforce?
+l30a,How Much of An Obstacle: Labor Regulations?
+j30e,How Much of An Obstacle: Political Instability
+e30,How Much of An Obstacle: Practices of Competitors In Informal Sector?
+j30b,How Much of An Obstacle: Tax Administrations
+j30a,How Much of An Obstacle: Tax Rates
+d30a,How Much of An Obstacle: Transport?
+k30_finance_pos,M30: rotation position 1
+g30_land_pos,M30: rotation position 2
+j30_permit_pos,M30: rotation position 3
+j30_corruption_pos,M30: rotation position 4
+j30_courts_pos,M30: rotation position 5
+j30_crime_pos,M30: rotation position 6
+d30_trade_pos,M30: rotation position 7
+c30_electricity_pos,M30: rotation position 8
+l30_workforce_pos,M30: rotation position 9
+l30_labor_pos,M30: rotation position 10
+j30_instability_pos,M30: rotation position 11
+e30_informal_pos,M30: rotation position 12
+j30_taxadmin_pos,M30: rotation position 13
+j30_taxrate_pos,M30: rotation position 14
+d30_transport_pos,M30: rotation position 15
+m1a,Biggest Obstacle Affecting The Operation of This Establishment
+m1a_finance_pos,m1a: Position of Access to Finance
+m1a_land_pos,m1a: Position of Access to land
+m1a_permit_pos,m1a: Position of Business licensing and permits
+m1a_corruption_pos,m1a: Position of corruption
+m1a_courts_pos,m1a: Position of Courts
+m1a_crime_pos,"m1a: Position of Crime, theft and disorder"
+m1a_trade_pos,m1a: Position of Customs and trade regulations
+m1a_electricity_pos,m1a: Position  of Electricity
+m1a_workforce_pos,m1a: Position of Inadequately educated workforce
+m1a_labor_pos,m1a: Position of Labor regulations
+m1a_instability_pos,m1a: Position of Political instability
+m1a_informal_pos,m1a: Position of Practices of competitors in the informal sector
+m1a_taxadmin_pos,m1a: Position of Tax administration
+m1a_taxrate_pos,m1a: Position of Tax rates
+m1a_transport_pos,m1a: Position of Transport
+l1,"Num. Permanent, Full-Time Employees At End of Last Fiscal Year"
+l2,"Num. Permanent, Full-Time Employees At End of 3 Fiscal Years Ago"
+l9b,% of Full Time Workers Completed High School End of Last FY
+l9b1,Number of Full Time Workers Completed High School
+l3a,Num. Full-Time Employees At End of Last FY: Production Workers
+l3b,Num. Full-Time Employees At End of Last FY: Non-Production Workers
+l5a,Num. Full-Time Employees At End of Last FY: Women Production Workers
+l5b,Num. Full-Time Employees At End of Last FY: Women Non-Production Workers
+l5,Num. Full-Time Employees At End of Last FY: Women
+l4a1,"Num. of Permanent, Full-Time Skilled Production Workers, Last FY"
+l4a2,"Num. of Permanent, Full-Time Semi-skilled Production Workers, Last FY"
+l4b,"Num. of Permanent, Full-Time Low-skilled Production Workers, Last FY"
+l10,"Formal Training Programs For Permanent, Full-Time Employees In Last FY"
+l11a1,Training Programs Amount: Production Full-Time Permanent Employees Trained
+l11a,% Permanent Full-Time Production Employees Received Formal Training In Last FY
+l11b1,Training Programs Amount:Non-Production Full-Time Permanent Employees Trained
+l11b,% Permanent Fulltime Nonproduction Employees Received Formal Training In Last FY
+l12a1,Training Programs Amount: Full-Time Permanent Women Employees Trained
+l12a,% Permanent Full-Time Women Employees Received Formal Training In Last FY
+l34,"In the last 3 yrs., establishment has dismissed any permanent, full-time workers"
+l35,Typical number of weeks to dismiss full-time permanent worker
+l36,Typical number of weeks paid in severance
+l1a,Num. Part-time Employees At End of Last Fiscal Year
+l6,Num. Full-Time Temporary Employees At End of Last FY
+l6a,"Women Temporary, Full-Time Workers Employed Throughout Last FY"
+l8,Avg. Length of Employment of All Full-Time Temporary Employees In Last FY
+l37,"In the last 3 yrs., establishment has been involved in any labor dispute"
+l38a,Time to Resolve a labor Dispute:Months
+l38b,Time to Resolve a labor Dispute:Days
+l40,"In last FY, was establishment visited by health and safety inspectors"
+l41,Was a report issued for health and safety inspection
+l30d,How Much of An Obstacle: The regulation of dismissing workers?
+l30c,How Much of An Obstacle: The cost of hiring new workers?
+c32,Electricity consumption in a typical month (kWh)
+c32b,Cost of monthly electricity consumption
+c34,Water consumption in a typical month
+c34b,Unit measure of answer to c34
+c34bx,Other (Specify)
+c34c,Cost of monthly water consumption
+n2a,"Total Labor Cost (Incl. Wages, Salaries, Bonuses, Etc) In Last Fiscal Year"
+n2a2,Social security payments and employment-based taxes
+n2e,Cost of Raw Materials And Intermediate Goods Used In Prod. In Last Fiscal Year
+n2i,Total Annual Cost of Finished Goods/Materials Bought To Resell In Last FY
+n7a,Cost For Establishment To Re-Purchase All of Its Machinery
+n11,Effective income-based tax rate
+a15d,Day
+a15m,Month
+a15y,Year
+a15h,Hour
+a15min,Minutes
+a16,Perception of The Questions Regarding Opinions And Perceptions
+a17,Responses To The Questions About Figures Areâ€¦
+a18,This Questionnaire Was Completed In:
+a19h,"If Option 2 or 3 In A.18, Estimate Duration of The Whole Interview: Hours"
+a19m,"If Option 2 or 3 In A.18, Estimate Duration of The Whole Interview: Minutes"
+a13,Supervisor Number
+a1d,Mode of Collection
+a3b,official Capital City?
+a3c,Main Business City?
+a3,Size of Locality
+d1a2_v4,Main Product/Service ISIC (Rev. 4) Code
+stratificationregioncode,stratificationregioncode
+stratificationsizecode,stratificationsizecode
+stratificationsectorcode,stratificationsectorcode
+stratificationpanelcode,panelcode
+wstrict,Weight according to strict eligibility
+wmedian,Weight according to median eligibility
+wweak,Weight according to weak eligibility
+strata,see notes
