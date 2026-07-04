@@ -18,3 +18,6 @@ __pycache__/
 project_presentation.pptx
 
 Variable_Glossary.xlsx
+
+data/*.csv
+
