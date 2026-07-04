@@ -173,21 +173,9 @@ CV AUC 0.710 on the same robustness model using R and XGBoost.
 ## Project Structure
 
 ```
-opp_project/
-├── data/
-│   ├── survey_reduced_df.csv
-│   ├── output.csv
-│   ├── var_labels.csv
-│   ├── value_labels_by_variable.csv
-│   └── Variable_Glossary.xlsx
-├── src/
-│   ├── data_loader.py
-│   ├── utils.py
-│   ├── preprocessing.py
-│   ├── analysis.py
-│   ├── visualization.py
-│   └── main.py
-├── outputs/
+credit-demand-pipeline/
+├── data/                     # place downloaded dataset files here
+├── outputs/                  # generated visualizations
 │   ├── 01_distributions.png
 │   ├── 02_correlation_heatmap.png
 │   ├── 03_demand_by_region.png
@@ -197,8 +185,16 @@ opp_project/
 │   ├── 07_demand_by_sector.png
 │   ├── 08_financing_sources.png
 │   └── 09_feature_importance.png
-├── requirements.txt
-└── README.md
+├── src/
+│   ├── data_loader.py
+│   ├── utils.py
+│   ├── preprocessing.py
+│   ├── analysis.py
+│   ├── visualization.py
+│   └── main.py
+├── .gitignore
+├── README.md
+└── requirements.txt
 ```
 
 ### Data
