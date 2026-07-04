@@ -97,7 +97,7 @@ python3 src/main.py --data data --output outputs  # custom paths
 
 ```bash
 # 1. Clone or download the project
-cd opp_project
+cd credit-demand-pipeline
 
 # 2. Create and activate virtual environment
 python3 -m venv .venv
