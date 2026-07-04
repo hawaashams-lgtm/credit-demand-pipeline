@@ -200,3 +200,19 @@ opp_project/
 ├── requirements.txt
 └── README.md
 ```
+
+### Data
+
+The original Enterprise Survey data files are **not included** in this repository.
+
+This project is based on the **World Bank Enterprise Surveys**. The dataset has been excluded from this repository to comply with the dataset's terms of use and redistribution policy.
+
+To run the project, download the required dataset from the World Bank Enterprise Surveys website and place the following files in the `data/` directory:
+
+- `output.csv`
+- `survey_reduced_df.csv`
+- `var_labels.csv`
+- `value_labels_by_variable.csv`
+
+Dataset:
+https://www.enterprisesurveys.org
